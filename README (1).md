@@ -226,6 +226,6 @@ POST https://devapigw.vidalhealthtpa.com/srm-quiz-task/quiz/submit
 
 ## Author
 
-- **Name:** [Your Name]
-- **Reg No:** [Your Registration Number]
+- **Name:** JANUJA RAJ D
+- **Reg No:** RA2311004020108
 - **Assignment:** Bajaj Finserv Health | JAVA Qualifier | SRM | April 2025
